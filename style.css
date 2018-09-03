@@ -1,0 +1,38 @@
+.container {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    display: flex;
+    border: solid thistle 10px;
+    border-color: aquamarine;
+    margin: 15px;
+    height: 250px;
+    width: 250px;
+}
+
+.row1 {
+    display: flex;
+    width: auto;
+    margin: 2%;
+    padding: 2%;
+    border: 30px solid coral;
+}
+
+.row2 {
+    display: Flex;
+    width: auto;
+    margin: 2%;
+    padding: 2%;
+    border: 30px solid coral;
+    flex-direction: row-reverse
+}
+
+.row3 {
+    display: Flex;
+    width: auto;
+    margin: 2%;
+    padding: 2%;
+    border: 30px solid coral;
+}
